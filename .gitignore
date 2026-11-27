@@ -1,0 +1,8 @@
+# never commit credentials
+*.env
+.env*
+*secret*
+*.pem
+*.key
+
+__pycache__/
